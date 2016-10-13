@@ -1,0 +1,3 @@
+# Ignore Vim buffers
+*.swp
+
